@@ -14,8 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Replicate data from Oracle DB to Google BigQuery using GoldenGate Stage and Merge handler.md",
-                "mode": "preview",
-                "backlinks": false,
+                "mode": "source",
                 "source": false
               }
             }
@@ -150,17 +149,20 @@
   },
   "active": "af2f8db1ccf18c88",
   "lastOpenFiles": [
-    "index.html",
-    "Pasted image 20230818195647.png",
-    "Pasted image 20230818194916.png",
-    "Pasted image 20230818194346.png",
-    "Pasted image 20230818194009.png",
-    "Pasted image 20230818192519.png",
-    "Pasted image 20230818192004.png",
-    "Pasted image 20230818190537.png",
-    "Pasted image 20230818185024.png",
-    "Pasted image 20230818184859.png",
-    "Pasted image 20230818184544.png",
-    "Replicate data from Oracle DB to Google BigQuery using GoldenGate Stage and Merge handler.md"
+    "20230818195647.png",
+    "20230818194916.png",
+    "20230818194346.png",
+    "20230818194009.png",
+    "20230818192519.png",
+    "20230818192004.png",
+    "20230818190537.png",
+    "20230818185024.png",
+    "20230818184859.png",
+    "20230818184544.png",
+    "20230818184210.png",
+    "Untitled.canvas",
+    "2023-08-18.md",
+    "Replicate data from Oracle DB to Google BigQuery using GoldenGate Stage and Merge handler.md",
+    "index.html"
   ]
 }
